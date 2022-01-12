@@ -1,0 +1,1 @@
+SELECT ST_Union(geom) INTO final_raster FROM public."Exports";
