@@ -1,0 +1,9 @@
+newmtl V_D_L_UND_D_BUNDES_L
+Ka  0.10 0.10 0.10
+Kd  1.00 1.00 1.00
+Ks  0.00 0.00 0.00
+d  1.00
+Ns  0.00
+illum 2
+map_Kd DEU_BL0405_KARLSRUHE_V_D_L_UND_D_BUNDES_L.TGA
+

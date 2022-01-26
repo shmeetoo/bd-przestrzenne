@@ -1,0 +1,8 @@
+newmtl std_mtl
+Ka  0.10 0.10 0.10
+Kd  1.00 1.00 1.00
+Ks  0.00 0.00 0.00
+d  1.00
+Ns  0.00
+illum 2
+map_Kd DEU_605_KARLSRUHE_SCHWARZ_S.TGA
